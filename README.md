@@ -3,7 +3,7 @@
 Welcome to Artful Brush, your one-stop destination for exploring the world of Painting and Drawing!
 
 Visit the live site: [Artful Brush Live](https://kaleidoscopic-faloodeh-207bf9.netlify.app/)
-![HomePage}(https://i.ibb.co/VY8yQKJ/Screenshot-2024-05-01-143624.png)
+![HomePage](https://i.ibb.co/VY8yQKJ/Screenshot-2024-05-01-143624.png)
 
 ## Painting and Drawing Categories
 
@@ -32,7 +32,7 @@ Visit the live site: [Artful Brush Live](https://kaleidoscopic-faloodeh-207bf9.n
 - **Comic Strip Drawing:** Laugh out loud with our entertaining comic strip drawings that bring stories to life.
 - **Superhero Cartoon Design:** Unleash your inner superhero with our dynamic superhero cartoon designs.
 
-Server Ripo: [Artful Brush server]([https://kaleidoscopic-faloodeh-207bf9.netlify.app/](https://github.com/Robiu-Sani/---Artful-Brush-server))
+Server Ripo: [Artful Brush server](https://github.com/Robiu-Sani/---Artful-Brush-server)
 ---
 
 Explore our diverse collection and unleash your creativity with Artful Brush!
