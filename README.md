@@ -2,8 +2,10 @@
 
 Welcome to Artful Brush, your one-stop destination for exploring the world of Painting and Drawing!
 
-Visit the live site: [Artful Brush Live](https://kaleidoscopic-faloodeh-207bf9.netlify.app/)
+Visit the live site: [Artful Brush Live](https://kaleidoscopic-faloodeh-207bf9.netlify.app/) <br/>
+
 ![HomePage](https://i.ibb.co/VY8yQKJ/Screenshot-2024-05-01-143624.png)
+
 
 ## Painting and Drawing Categories
 
